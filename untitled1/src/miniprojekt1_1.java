@@ -1,4 +1,4 @@
-package Java_miniprojektek;
+package Java_miniprojektek.untitled1.src;
 
 public class miniprojekt1_1 {
     public static void main(String[] args) {
