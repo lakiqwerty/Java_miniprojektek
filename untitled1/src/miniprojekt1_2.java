@@ -4,8 +4,8 @@ public class miniprojekt1_2 {
     static void jelszoTeszt(String jelszo) {
         int i = 1;
         while (i <= 3) {
-            Scanner myObj = new Scanner(System.in);
-            String jelszotest = myObj.nextLine();
+            Scanner input = new Scanner(System.in);
+            String jelszotest = input.nextLine();
             if (jelszo.equals(jelszotest)) {
                 System.out.println("Jo");
                 break;
