@@ -1,6 +1,6 @@
 package Java_miniprojektek.untitled1.src;
 
-public class miniprojekt2_9 {
+public class Fel09 {
     public static void main(String[] args) {
         int[][] tomb = new int[10][10];
 

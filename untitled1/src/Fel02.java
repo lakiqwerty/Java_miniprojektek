@@ -2,7 +2,7 @@ package Java_miniprojektek.untitled1.src;
 
 import java.util.Scanner;
 
-public class miniprojekt2_2 {
+public class Fel02 {
     public static void main(String[] args) {
         Scanner myObj = new Scanner(System.in);
         System.out.println("adjon meg egy stringet: ");

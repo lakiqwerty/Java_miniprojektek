@@ -2,7 +2,7 @@ package Java_miniprojektek.untitled1.src;
 
 import java.util.Arrays;
 
-public class miniprojekt2_6 {
+public class Fel06 {
     public static void main(String[] args) {
         int[] tomb = {12, 5, 7, 4, 7, 0};
         System.out.println("eredeti tomb: " + Arrays.toString(tomb));

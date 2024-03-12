@@ -2,7 +2,7 @@ package Java_miniprojektek.untitled1.src;
 
 import java.util.Arrays;
 
-public class miniprojekt2_5 {
+public class Fel05 {
     public static void main(String[] args) {
         int[] tomb = {7, 2, 6, 4, 2};
 

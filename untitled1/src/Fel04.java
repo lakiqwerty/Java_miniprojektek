@@ -2,7 +2,7 @@ package Java_miniprojektek.untitled1.src;
 
 import java.util.Scanner;
 
-public class miniprojekt2_4 {
+public class Fel04 {
     public static void main(String[] args) {
         Scanner myObj = new Scanner(System.in);
         System.out.println("adjon meg egy karakterlancot: ");

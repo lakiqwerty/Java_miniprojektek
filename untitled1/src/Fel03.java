@@ -1,6 +1,6 @@
 package Java_miniprojektek.untitled1.src;
 
-public class miniprojekt2_3 {
+public class Fel03 {
     public static void main(String[] args) {
         String karakterLanc = "sdfj hsjdjh glisjdg";
         String eredmeny = ismetlesekTorlese(karakterLanc);
