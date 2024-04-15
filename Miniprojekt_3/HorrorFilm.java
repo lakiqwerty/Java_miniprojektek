@@ -1,4 +1,4 @@
-package Miniprojekt_3;
+package Java_miniprojektek.Miniprojekt_3;
 
 public class HorrorFilm extends Film implements IKorhataros{
 

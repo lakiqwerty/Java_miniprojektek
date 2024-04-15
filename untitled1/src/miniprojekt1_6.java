@@ -2,7 +2,7 @@ package Java_miniprojektek.untitled1.src;
 import java.util.Arrays;
 
 public class miniprojekt1_6 {
-    public static void main(String[] args) {
+public static void main(String[] args) {
         int[] tomb1 = new int [] {1,2,3,4};
         int[] tomb2 = new int [] {1,2,3,5};
         int[] tomb3 = new int [] {1,2,3,6};
